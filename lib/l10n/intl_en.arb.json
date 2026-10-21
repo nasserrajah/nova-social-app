@@ -1,0 +1,22 @@
+{
+    "welcomeBack": "Welcome Back!",
+    "signInToAccount": "Sign in to your account",
+    "email": "Email",
+    "password": "Password",
+    "pleaseEnterEmail": "Please enter your email",
+    "invalidEmail": "Invalid email",
+    "pleaseEnterPassword": "Please enter password",
+    "passwordMinLength": "Password must be at least 6 characters",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot Password?",
+    "login": "Login",
+    "orSignInWith": "Or sign in with",
+    "dontHaveAccount": "Don't have an account? ",
+    "signUp": "Sign Up",
+    "resetPassword": "Reset Password",
+    "enterEmailForReset": "Enter your email to receive reset link",
+    "send": "Send",
+    "cancel": "Cancel",
+    "success": "Success",
+    "resetLinkSent": "Reset link has been sent to your email"
+}

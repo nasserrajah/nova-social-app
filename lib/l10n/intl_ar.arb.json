@@ -1,0 +1,22 @@
+{
+    "welcomeBack": "!مرحباً بعودتك",
+    "signInToAccount": "سجل الدخول إلى حسابك",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "pleaseEnterEmail": "يرجى إدخال البريد الإلكتروني",
+    "invalidEmail": "بريد إلكتروني غير صالح",
+    "pleaseEnterPassword": "يرجى إدخال كلمة المرور",
+    "passwordMinLength": "يجب أن تكون كلمة المرور 6 أحرف على الأقل",
+    "rememberMe": "تذكرني",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "login": "تسجيل الدخول",
+    "orSignInWith": "أو سجل الدخول باستخدام",
+    "dontHaveAccount": "ليس لديك حساب؟ ",
+    "signUp": "إنشاء حساب",
+    "resetPassword": "استعادة كلمة المرور",
+    "enterEmailForReset": "أدخل بريدك الإلكتروني لإرسال رابط الاستعادة",
+    "send": "إرسال",
+    "cancel": "إلغاء",
+    "success": "تم الإرسال بنجاح",
+    "resetLinkSent": "تم إرسال رابط استعادة كلمة المرور إلى بريدك الإلكتروني"
+}

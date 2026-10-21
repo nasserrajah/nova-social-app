@@ -1,0 +1,56 @@
+name: social_app
+description: "Nova — a bilingual Flutter social network built with BLoC."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_bloc: ^8.1.0
+  bloc: ^8.1.0
+  equatable: ^2.0.3
+  http: ^1.1.0
+  flutter_secure_storage: ^8.0.0
+  image_picker: ^0.8.7+3
+  cached_network_image: ^3.2.3
+  intl: ^0.20.2
+  shared_preferences: ^2.2.2
+  font_awesome_flutter: ^10.7.0
+  url_launcher: ^6.1.11
+  google_sign_in: ^6.1.5
+  google_fonts: ^6.3.2
+  convex_bottom_bar: ^3.2.0
+  share_plus: ^10.0.2
+  path_provider: ^2.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - images/logo.png
+    - images/n.png
+
+  fonts:
+    - family: Schyler
+      fonts:
+        - asset: fonts/Zanzabar Demo.otf
+        - asset: fonts/ArabicRamadan.ttf
+        - asset: fonts/KhadashArabic_Demo-Arabic.otf
+
+flutter_intl:
+  enabled: true
+  arb_dir: lib/l10n
+  template_ar_file: intl_en.arb
+  output_class: S
